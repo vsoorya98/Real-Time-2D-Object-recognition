@@ -1,9 +1,5 @@
 The operating I used is macos ventura and I used Clion as my IDE
 
-Members worked in this project :
-
-Shirish Kishore Kumar
-Soorya Vijayaragavan
 
 
 Instructions for running the executables:
